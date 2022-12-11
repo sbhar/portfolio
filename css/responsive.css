@@ -381,7 +381,8 @@
         width: auto;
     }
     .introduction img {
-        height: auto
+        height: auto;
+        margin-top: 3rem
     }
     .contact-form {
         padding-bottom: 0;
@@ -397,7 +398,7 @@
         padding: 130px 30px 40px 30px;
     }
     .introduction .inner {
-        background: url(../images/black-transparent.png) repeat
+        background: none;
     }
     .introduction h2 {
         font-size: 35px;
